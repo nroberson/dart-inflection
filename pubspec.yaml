@@ -5,3 +5,5 @@ description: Grammatical Inflection encoders.
 homepage: https://github.com/gmosx/dart-inflection
 dev_dependencies:
   test: any
+environment:
+  sdk: '>=1.0.0 <3.0.0'
